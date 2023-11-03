@@ -5,3 +5,4 @@ Add test case for W [OUE8YK] line 7.3
 Add feature for X [1k33mS] line 10.1
 Refactor codebase with Z [tBpnkW] line 11.2
 Update documentation [dWTqdb] line 12.1
+Update documentation [PKHb3m] line 13.2
